@@ -5,5 +5,5 @@ spring:
   application:
     name: cloud-gateway
 
-config
+config:
   info: config-version-1.0
