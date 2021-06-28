@@ -4,3 +4,6 @@ server:
 spring:
   application:
     name: cloud-gateway
+
+config
+  info: config-version-1.0
